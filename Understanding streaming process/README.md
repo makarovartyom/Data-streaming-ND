@@ -7,8 +7,9 @@
 - The unbounded **input** stream is resulted in some **output** stream after the calculations applied.
 <br>
 
-<img src="https://github.com/makarovartyom/Data-streaming-ND/blob/master/assets/cloud.png" width=520, height=200 align="left"/>
+<img src="https://github.com/makarovartyom/Data-streaming-ND/blob/master/assets/cloud.png" width=520, height=200 align="center"/>
 <br>
+
 
 
 - Stream is also produced at uneven rate - stream has **no start or end** (and event **might not be sent at particular time**) - see the gap between **c** and **a** in the example below.
