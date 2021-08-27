@@ -19,7 +19,7 @@ The course is split into two parts:
 2. The second part focuses on performing Stream Processing on streaming data sources already in Kafka.
 
 
-## Table of ccontents
+## Table of contents
 
 1. Understanding Stream Processing
 
