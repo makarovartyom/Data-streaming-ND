@@ -12,4 +12,10 @@ graph LR
 A((c))((b)((a))--> B[Calculations]-->C((x))((y)((z))
 ```
 
-
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
