@@ -24,13 +24,3 @@ The course is split into two parts:
 1. Understanding Stream Processing
 
 2. Append-only logs and log-structured storage
-
-3. Apache Kafka
-
-4. Apache Kafka detailed
-
-5. Data schemas and Apache Avro
-
-6. Kafka Connect and REST Proxy
-
-7. Streaming data fundamentals
